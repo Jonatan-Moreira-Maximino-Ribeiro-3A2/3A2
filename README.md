@@ -1,4 +1,4 @@
-# Este é o Repositório da Aluna JONATAN MOREIRA MAXIMINO RIBEIRO 3A2
+# Este é o Repositório do Aluno JONATAN MOREIRA MAXIMINO RIBEIRO 3A2
 
 # Sejam todos bem vindos!
 
